@@ -1,4 +1,4 @@
-# Orange3-Subgroups
+# Orange3-MRSD
 
 An [Orange](https://orangedatamining.com) add-on for **Multiple Responses
 Subgroup Discovery (MRSD)**: finding groups of instances, described by the
@@ -32,7 +32,7 @@ Documentation: [doc/index.md](doc/index.md) – start with
 Orange 3.34 or newer is required.
 
 ```
-pip install Orange3-Subgroups        # into the environment that runs Orange
+pip install Orange3-MRSD        # into the environment that runs Orange
 ```
 
 or from a clone: `pip install -e .`.  Excel export additionally needs

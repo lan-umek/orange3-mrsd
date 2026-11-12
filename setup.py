@@ -4,11 +4,11 @@ import os
 
 from setuptools import find_packages, setup
 
-NAME = "Orange3-Subgroups"
+NAME = "Orange3-MRSD"
 VERSION = "0.1.0"
 DESCRIPTION = "Orange add-on for discovering subgroups in data with several dependent variables (MRSD)."
 AUTHOR = "Lan Umek"
-URL = "https://github.com/lan-umek/subgroups-Orange"
+URL = "https://github.com/lan-umek/orange3-mrsd"
 LICENSE = "MIT"
 KEYWORDS = ("orange3 add-on", "subgroup discovery", "multiple responses", "MRSD", "exceptional model mining")
 

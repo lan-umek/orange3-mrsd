@@ -6,14 +6,14 @@ The add-on needs Orange 3.34 or newer.  Install it into the Python
 environment that runs Orange:
 
 ```
-pip install Orange3-Subgroups
+pip install Orange3-MRSD
 ```
 
 or, from a clone of the repository, `pip install -e .`.  With the standalone
 Orange installer on Windows use Orange's own Python, e.g.
 
 ```
-"%LOCALAPPDATA%\Programs\Orange\python.exe" -m pip install Orange3-Subgroups
+"%LOCALAPPDATA%\Programs\Orange\python.exe" -m pip install Orange3-MRSD
 ```
 
 Restart Orange; the widgets are in the category **Subgroups**.  Excel export
