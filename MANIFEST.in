@@ -1,0 +1,8 @@
+include README.md
+include LICENSE
+recursive-include orangecontrib/subgroups/widgets/icons *.svg
+recursive-include orangecontrib/subgroups/datasets *.tab *.csv
+recursive-include orangecontrib/subgroups/mrsd *.py *.md
+recursive-include tools *.py
+recursive-include doc *.md
+recursive-include doc/widgets/images *.png
